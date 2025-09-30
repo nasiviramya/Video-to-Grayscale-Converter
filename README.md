@@ -82,10 +82,12 @@ streamlit run client.py
 ## 📸 Screenshots
 
 ### 🔹 Upload Page
-![Upload Page](screenshots/upload_page.png)
+<img width="805" height="339" alt="image2" src="https://github.com/user-attachments/assets/91352ffc-6e56-476a-9f1d-fa256c3cb4c5" />
+
 
 ### 🔹 After Processing
-![Processed Page](screenshots/processed_page.png)
+<img width="752" height="516" alt="image1" src="https://github.com/user-attachments/assets/9b0c84ff-eaaf-4401-b880-a132f1672f69" />
+
 
 
 
