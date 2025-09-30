@@ -78,15 +78,23 @@ streamlit run client.py
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add screenshots of your Streamlit UI here._
+
+## 📸 Screenshots
+
+### 🔹 Upload Page
+![Upload Page](screenshots/upload_page.png)
+
+### 🔹 After Processing
+![Processed Page](screenshots/processed_page.png)
+
+
 
 ---
 
 ## 🚀 Future Improvements
 - Add more video filters (blur, edge detection, sepia, etc.)  
 - Support real-time video streaming  
-- Deploy on cloud (Heroku, AWS, etc.)  
+
 
 ---
 
